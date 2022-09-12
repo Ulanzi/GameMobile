@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/GameMobile/static/css/main.ffca3910.css",
-    "main.js": "/GameMobile/static/js/main.7693068d.js",
+    "main.css": "/GameMobile/static/css/main.cd90f2bc.css",
+    "main.js": "/GameMobile/static/js/main.da8296dc.js",
     "static/js/787.09edb4f1.chunk.js": "/GameMobile/static/js/787.09edb4f1.chunk.js",
     "index.html": "/GameMobile/index.html",
-    "main.ffca3910.css.map": "/GameMobile/static/css/main.ffca3910.css.map",
-    "main.7693068d.js.map": "/GameMobile/static/js/main.7693068d.js.map",
+    "main.cd90f2bc.css.map": "/GameMobile/static/css/main.cd90f2bc.css.map",
+    "main.da8296dc.js.map": "/GameMobile/static/js/main.da8296dc.js.map",
     "787.09edb4f1.chunk.js.map": "/GameMobile/static/js/787.09edb4f1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffca3910.css",
-    "static/js/main.7693068d.js"
+    "static/css/main.cd90f2bc.css",
+    "static/js/main.da8296dc.js"
   ]
 }
