@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ContactLogin/static/css/main.ffca3910.css",
-    "main.js": "/ContactLogin/static/js/main.a5d1a7d0.js",
-    "static/js/787.09edb4f1.chunk.js": "/ContactLogin/static/js/787.09edb4f1.chunk.js",
-    "index.html": "/ContactLogin/index.html",
-    "main.ffca3910.css.map": "/ContactLogin/static/css/main.ffca3910.css.map",
-    "main.a5d1a7d0.js.map": "/ContactLogin/static/js/main.a5d1a7d0.js.map",
-    "787.09edb4f1.chunk.js.map": "/ContactLogin/static/js/787.09edb4f1.chunk.js.map"
+    "main.css": "/GameMobile/static/css/main.ffca3910.css",
+    "main.js": "/GameMobile/static/js/main.7693068d.js",
+    "static/js/787.09edb4f1.chunk.js": "/GameMobile/static/js/787.09edb4f1.chunk.js",
+    "index.html": "/GameMobile/index.html",
+    "main.ffca3910.css.map": "/GameMobile/static/css/main.ffca3910.css.map",
+    "main.7693068d.js.map": "/GameMobile/static/js/main.7693068d.js.map",
+    "787.09edb4f1.chunk.js.map": "/GameMobile/static/js/787.09edb4f1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ffca3910.css",
-    "static/js/main.a5d1a7d0.js"
+    "static/js/main.7693068d.js"
   ]
 }
