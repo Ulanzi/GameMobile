@@ -1,0 +1,52 @@
+.Photo {
+  padding-top: 20vh;
+  max-height: 500px;
+  max-width: 1000px;
+  width: 94%;
+  display: block;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 0 auto;
+}
+
+.BackGround {
+  background-color: black;
+}
+
+.item {
+  color:  #b02929;
+  text-decoration: none;
+}
+
+.item:hover {
+  font-size: 17px;
+  color: #881515;
+  text-decoration: none;
+  text-shadow:
+          0 0 72px #a43838,
+          0 0 82px #662323
+}
+
+.active {
+  color: red;
+  text-decoration: none;
+}
+
+.grid {
+  position: relative;
+  height: 100vh;
+  width: auto;
+  display: grid;
+  background-color: black;
+
+}
+
+.TextStart {
+  text-align: center;
+  color: darkred;
+  margin-top: -140px;
+}
+
+
+
+
